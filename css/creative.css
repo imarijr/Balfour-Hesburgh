@@ -107,6 +107,11 @@ img::-moz-selection {
   transition: all 0.2s;
 }
 
+.navbar-nav{
+  background-color:  #b48727 !important;
+  border-radius: 50px;
+}
+
 #mainNav .navbar-brand {
   font-weight: 700;
   text-transform: uppercase;
